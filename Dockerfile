@@ -1,4 +1,4 @@
-FROM node:6.11.5
+FROM node:9.0.0-alpine 
 
 ENV HOST localhost
 ENV PORT 3000
